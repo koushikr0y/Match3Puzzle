@@ -1,0 +1,67 @@
+{
+    "maxLives": 5,
+    "timeToNextLife": 300,
+    "livesRefillCost": 100,
+    "initialCoins": 1500,
+    "numExtraMoves": 5,
+    "extraMovesCost": 100,
+    "numExtraTime": 15,
+    "extraTimeCost": 100,
+    "defaultTileScore": 10,
+    "scoreOverrides": [],
+    "ingameBoosterAmount": {
+        "Lollipop": 3,
+        "Bomb": 3,
+        "Switch": 3,
+        "ColorBomb": 3
+    },
+    "ingameBoosterCost": {
+        "Lollipop": 100,
+        "Bomb": 100,
+        "Switch": 100,
+        "ColorBomb": 100
+    },
+    "rewardedAdCoins": 150,
+    "iapItems": [
+        {
+            "storeId": "com.gamevanilla.candymatch3.coinspack5",
+            "numCoins": 3600,
+            "discount": 40,
+            "mostPopular": false,
+            "bestValue": true,
+            "coinIcon": "VeryLarge"
+        },
+        {
+            "storeId": "com.gamevanilla.candymatch3.coinspack4",
+            "numCoins": 1200,
+            "discount": 20,
+            "mostPopular": false,
+            "bestValue": false,
+            "coinIcon": "Large"
+        },
+        {
+            "storeId": "com.gamevanilla.candymatch3.coinspack3",
+            "numCoins": 950,
+            "discount": 15,
+            "mostPopular": true,
+            "bestValue": false,
+            "coinIcon": "MediumLarge"
+        },
+        {
+            "storeId": "com.gamevanilla.candymatch3.coinspack2",
+            "numCoins": 400,
+            "discount": 5,
+            "mostPopular": false,
+            "bestValue": false,
+            "coinIcon": "MediumSmall"
+        },
+        {
+            "storeId": "com.gamevanilla.candymatch3.coinspack1",
+            "numCoins": 150,
+            "discount": 0,
+            "mostPopular": false,
+            "bestValue": false,
+            "coinIcon": "Small"
+        }
+    ]
+}
